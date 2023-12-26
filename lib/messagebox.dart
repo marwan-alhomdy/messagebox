@@ -3,7 +3,7 @@ library button_messagebox;
 import 'package:flutter/material.dart';
 export './src/messagebox_widget.dart';
 
-class MessageBox {
+class ButtonMessageBox {
   static Future showCustomAlertBox({
     required BuildContext context,
     required Widget willDisplayWidget,
