@@ -1,6 +1,6 @@
-name: messagebox
+name: marbox
 description: A Package to show messagebox
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/marwan-alhomdy/messagebox.git
 
 environment:
