@@ -1,9 +1,9 @@
-library button_messagebox;
+library messagebox;
 
 import 'package:flutter/material.dart';
 export './src/messagebox_widget.dart';
 
-class ButtonMessageBox {
+class MessageBox {
   static Future showCustomAlertBox({
     required BuildContext context,
     required Widget willDisplayWidget,
